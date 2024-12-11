@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 "# colorchange" 
 "# colorchange.app" 
 "# new" 
+"# new" 
+"# new" 
